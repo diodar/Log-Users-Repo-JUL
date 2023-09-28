@@ -1,0 +1,20 @@
+сент. 28, 2023 12:45:04 AM org.example.app.services.UserCreateService createUser
+WARNING: Data inputs incorrect.
+сент. 28, 2023 12:45:29 AM org.example.app.services.UserUpdateService updateEmail
+WARNING: Data inputs incorrect.
+сент. 28, 2023 12:48:18 AM org.example.app.services.UserCreateService createUser
+WARNING: Data inputs incorrect.
+сент. 28, 2023 12:48:51 AM org.example.app.services.UserUpdateService updateEmail
+WARNING: Data inputs incorrect.
+сент. 28, 2023 12:49:05 AM org.example.app.services.UserDeleteService deleteUser
+WARNING: Data inputs incorrect.
+сент. 28, 2023 10:46:08 AM org.example.app.services.UserUpdateService updatePhone
+WARNING: Data inputs incorrect.
+сент. 28, 2023 10:46:25 AM org.example.app.services.UserUpdateService updateUser
+WARNING: Data inputs incorrect.
+сент. 28, 2023 10:46:33 AM org.example.app.services.UserDeleteService deleteUser
+WARNING: Data inputs incorrect.
+сент. 28, 2023 10:51:59 AM org.example.app.services.UserDeleteService deleteUser
+WARNING: Data inputs incorrect.
+сент. 28, 2023 10:58:39 AM org.example.app.services.UserDeleteService deleteUser
+WARNING: Data inputs incorrect.
